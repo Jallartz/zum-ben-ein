@@ -8,6 +8,6 @@ package h1;
             if (k <= 22) { System.out.println("k hat den wert " + k);} 
             else { System.out.println("k ist ungleich 22"); }
 
-    
+    System.out.println("Ende");
     }
 }
